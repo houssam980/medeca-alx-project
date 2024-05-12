@@ -15,3 +15,6 @@ just import the sql file into your database make sure to call it medeca_db
 make sure you have the last verse of MySQl 
 make sure you have internet connection to make fonts imported from google fonts work
 you must add security to the web site for personal uses
+
+
+you can find some screenshots on imags folder 
